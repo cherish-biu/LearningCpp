@@ -9,6 +9,6 @@ int main(void)
 	scanf("%d", &x);
 	printf("Double the integer you entered, we have: %d\n", 2 * x);
 
-	//system("pause");
+	system("pause");
 	return 0;
 }
